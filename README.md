@@ -1,6 +1,6 @@
 # esx-lrp-steal-mythic-dpemotes
 
-Due to some issues with [Progress Bar 1.0](https://github.com/EthanPeacock/progressBars/releases/tag/1.0) and an issue where the script didn't recogrize the ped's handsup animation, I did some quick changes to the code of [LRP-Steal](https://github.com/karenciita/LRP-Steal) publiced by [karenciita](https://github.com/karenciita), so that it works with [dpEmotes](https://github.com/andristum/dpemotes) and [mythic progressbar](https://github.com/XxFri3ndlyxX/mythic_progressbar).
+Due to some issues with [Progress Bar 1.0](https://github.com/EthanPeacock/progressBars/releases/tag/1.0) and an issue where the script didn't recogrize the ped's handsup animation, I did some quick changes to the code of [LRP-Steal](https://github.com/karenciita/LRP-Steal) published by [karenciita](https://github.com/karenciita), so that it works with [dpEmotes](https://github.com/andristum/dpemotes) and [mythic progressbar](https://github.com/XxFri3ndlyxX/mythic_progressbar).
 
 ## Requirements
   1. [dpEmotes](https://github.com/andristum/dpemotes)
